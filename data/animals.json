@@ -108,7 +108,15 @@
         "loving"
       ],
       "id": "10"
+    },
+    {
+      "name": "Nigel",
+      "species": "gorilla",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "11"
     }
-    
   ]
 }
